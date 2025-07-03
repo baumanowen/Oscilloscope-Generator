@@ -1,8 +1,0 @@
-../Core/Src/main.c:70:6:generate_sine_table	32	static
-../Core/Src/main.c:83:5:main	32	static
-../Core/Src/main.c:151:6:SystemClock_Config	88	static
-../Core/Src/main.c:198:13:MX_ADC1_Init	24	static
-../Core/Src/main.c:250:13:MX_TIM1_Init	96	static
-../Core/Src/main.c:325:13:MX_USART2_UART_Init	8	static
-../Core/Src/main.c:358:13:MX_GPIO_Init	48	static
-../Core/Src/main.c:400:6:Error_Handler	4	static,ignoring_inline_asm
